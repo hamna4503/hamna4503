@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/hamnaaamir593">
-    <img src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/brand/h_mark_sm-1776ff31b82453d7d1388d13c49b4aaf.png" alt="Hadckerrank Badge"/>
+    <img src=https://www.iconfinder.com/icons/4373234/hackerrank_logo_logos_icon alt="Hadckerrank Badge"/>
   </a>
 </div>
 

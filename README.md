@@ -1,7 +1,6 @@
 
-<div align="center">
   
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -14,13 +13,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/hamnaaamir593">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hadckerrank Badge"/>
+    <img src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/brand/h_mark_sm-1776ff31b82453d7d1388d13c49b4aaf.png" alt="Hadckerrank Badge"/>
   </a>
 </div>
 
 ## My Progress👋
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hamna4503&theme=dark" alt="GitHub Streak" /></a>
-</div>
+
 
 <!--
 **hamna4503/hamna4503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

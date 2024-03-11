@@ -2,11 +2,12 @@
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> 
 
 ## Hi there 👋
-# I am a software Engineering undergraduate student at NED University, Karachi.  
-
+### I am a software Engineering undergraduate student at NED University, Karachi.
+### I have worked in more than 5 projects developed using REACT.JS and am currently 
+### in the phase of learning NODE.JS. I asspire to become  a MERN stack developer.
 
 ### 🔭 I’m currently working on development on an Ecommerce website using MERN stack.
 ### 🌱 I’m currently learning Node.JS to enhance my MERN stack knowledge.

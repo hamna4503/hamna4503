@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/hamna-aamir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/hamnaaamir593">
+  <a href="https://www.hackerrank.com/profile/hamnaaamir593" width="100px" height="100px">
      <img src="./pngegg.png" alt="LinkedIn Badge"/>
   </a>
 </div>

@@ -5,6 +5,8 @@
 </div>
 
 ## Hi there 👋
+# I am a software Engineering undergraduate student at NED University, Karachi.  
+
 
 ### 🔭 I’m currently working on development on an Ecommerce website using MERN stack.
 ### 🌱 I’m currently learning Node.JS to enhance my MERN stack knowledge.

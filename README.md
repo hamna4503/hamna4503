@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/hamnaaamir593">
-    <p style={color:green}>Hackerrank</p>
+     <img src="./pngegg.png" alt="LinkedIn Badge"/>
   </a>
 </div>
 

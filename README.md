@@ -5,11 +5,9 @@
 </div> 
 
 ## Hi there 👋
-#### I am a software Engineering undergraduate student at NED University, Karachi.
-#### I have worked in more than 5 projects developed using REACT.JS and am currently 
-#### in the phase of learning NODE.JS. I asspire to become  a MERN stack developer.
+### I am a software Engineering undergraduate student at NED University, Karachi. I have worked in more than 5 projects developed using REACT.JS and am currently in the phase of learning NODE.JS. I asspire to become a MERN stack developer.
 
-##
+## Current Scenario
 ### 🔭 I’m currently working on development on an Ecommerce website using MERN stack.
 ### 🌱 I’m currently learning Node.JS to enhance my MERN stack knowledge.
 ### 📫 How to reach me: <div id="badges">
@@ -17,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/hamnaaamir593" width="100px" height="100px">
-     <img src="./pngegg.png" alt="LinkedIn Badge"/>
+     <img src="" alt="LinkedIn Badge"/>
   </a>
 </div>
 

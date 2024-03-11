@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-### 🔭 I’m currently working on development of Food ordering website using MERN stack.
+### 🔭 I’m currently working on development on an Ecommerce website using MERN stack.
 ### 🌱 I’m currently learning Node.JS to enhance my MERN stack knowledge.
 ### 📫 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/hamna-aamir/">

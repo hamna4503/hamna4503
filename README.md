@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamna Aamir</h1>
 <h3>A passionate website developer from Pakistan currently learning Node.JS. Currently studying Software Engineering at NED University, Karachi. My area of interest is website development and I aspire to become a MERN stack developer.</h3>
 
-- 🔭 I’m currently working on **Byte Bazaar**- An electronics Ecommerce website.
+- 🔭 I’m currently working on **Byte Bazaar**- An electronics Ecommerce website built on React.JS, Tailwind CSS, Node.JS and MongoDB.
 
-- 🌱 I’m currently learning **Node.JS and MongoDB**
+- 🌱 I’m currently learning **Node.JS & MongoDB**
 
 - 📫 How to reach me **hamnaaamir593@gmail.com**
 

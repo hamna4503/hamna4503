@@ -3,13 +3,13 @@
 
 ---
 
-### 👩‍💻 About Me  
+### About Me  
 I’m a passionate **MERN stack developer** who loves building modern web apps that blend **clean design, functionality, and AI integration**.  
 Currently exploring **Next.js** and ways to make applications more **scalable and intelligent**.  
 
 ---
 
-### 🚀 What I Do  
+### What I Do  
 - ⚡ Build full-stack applications with **React, Node.js, Express, and MongoDB**  
 - 🎨 Craft responsive, elegant frontends with **Tailwind CSS & Bootstrap**  
 - 🔐 Implement authentication, APIs, and backend logic for real-world apps  
@@ -17,18 +17,11 @@ Currently exploring **Next.js** and ways to make applications more **scalable an
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 **Frontend:** React.js · Tailwind CSS · Bootstrap · Redux  
 **Backend:** Node.js · Express.js · REST APIs · JWT  
 **Databases:** MongoDB · MySQL · PostgreSQL  
 **Other Tools:** Git · GitHub · Vercel  
-
----
-
-### 📌 Featured Projects  
-- **ByteBazaar** – MERN E-Commerce app with Stripe & PayPal integration  
-- **HireIt** – AI-driven HR recruitment tool (Flask + MySQL backend)  
-- **Instrux** – Real-time monitoring system with React & Google Charts  
 
 ---
 

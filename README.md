@@ -18,7 +18,7 @@ Currently exploring **Next.js** and ways to make applications more **scalable an
 ---
 
 ### Tech Stack  
-**Frontend:** React.js · Tailwind CSS · Bootstrap · Redux  
+**Frontend:** Next.JS · React.js · Tailwind CSS · Bootstrap · Redux · Zustand
 **Backend:** Node.js · Express.js · REST APIs · JWT  
 **Databases:** MongoDB · MySQL · PostgreSQL  
 **Other Tools:** Git · GitHub · Vercel  
